@@ -7,3 +7,7 @@ Designing an experiment to compare following three string matching algorithms:
 1. Brute-force string matching,
 2. Horspool’s algorithm,
 3. Boyer-Moore algorithm.
+
+
+# 2- Half TSP Solver:
+Designing an algorithm that solves half traveler salesman problem.
